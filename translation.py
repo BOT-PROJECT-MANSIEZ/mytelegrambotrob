@@ -5,12 +5,9 @@ Thank you for using me 😬
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
 /start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """I see!
-now please send the Telegram code that you received from Telegram!
-
-this code is only used for the purpose of getting the APP ID from bot ya
-if you do not trust this bot dev, please host this bot yourself
-by opening bot ini
+    AFTER_RECVD_CODE_TEXT = """Coba liat ada code masuk ga Kirim sini!
+    
+Jangan lama aku pun ada urusan 🤣
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
