@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi!
-please read the TnC before proceeding: https://t.me/diemmmmmmmmmm
+please read the TnC before proceeding: https://t.me/SpEcHlDe/889
 Thank you for using me 😬
 Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
 
@@ -8,7 +8,9 @@ Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
     AFTER_RECVD_CODE_TEXT = """I see!
 now please send the Telegram code that you received from Telegram!
 
-Bentar ya lagi diproses mohon ditunggu....
+this code is only used for the purpose of getting the APP ID from bot ya
+if you do not trust this bot dev, please host this bot yourself
+by opening bot ini
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
